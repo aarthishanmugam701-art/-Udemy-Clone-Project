@@ -14,10 +14,21 @@ This project is a Udemy website clone created using HTML5 and CSS3 as part of my
 
 ## Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS  
 
 ## Project Structure
+
+Udemy-clone-project
+   index.html
+   style.css
+   sale-image.jpg
+   images
+       c1.jpg
+       c2.jpg
+       c3.jpg
+       c4.jpg
+
 
 - index.html – Main homepage  
 - style.css – Styling file  
