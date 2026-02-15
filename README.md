@@ -33,3 +33,4 @@ The objective of this project is to strengthen my understanding of HTML structur
 2. Open the project folder
 3. Open `index.html` in your browser  
 
+![image alt](https://github.com/aarthishanmugam701-art/-Udemy-Clone-Project/blob/905328e7a88ae9cd2b9fccb085320c664c8da6bc/sale-image.jpg)
